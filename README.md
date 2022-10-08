@@ -2,12 +2,12 @@
 
 ### Olá, bem vindo ao meu perfil 👋
 
-## Formação e Experiência
+## :mortar_board: Formação e Experiência
 - 💻 Técnico em Informática
 - 🖥️ Cursando Bacharelado em Sistemas de Informação (4º período)
 - ✈️ Trabalho há mais de 3 anos na Força Aérea Brasileira como auxiliar técnico com foco em manutenção e desenvolvimento de sistemas
 
-## 🛠 &nbsp; Ferramentas e Tecnologias
+## 🛠 Ferramentas e Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 
-## 📫 &nbsp; Como entrar em contato
+## 📫 Como entrar em contato
 
 
 <a href="https://www.linkedin.com/in/caioestefaneli/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
