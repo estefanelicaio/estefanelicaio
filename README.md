@@ -4,8 +4,7 @@
 
 ## :mortar_board: Formação e Experiência
 - 💻 Técnico em Informática
-- 🖥️ Cursando Bacharelado em Sistemas de Informação (4º período)
-- ✈️ Trabalho há mais de 3 anos na Força Aérea Brasileira como auxiliar técnico com foco em manutenção e desenvolvimento de sistemas
+- 🖥️ Cursando Bacharelado em Sistemas de Informação (8º período)
 
 ## 🛠 Ferramentas e Tecnologias
 
@@ -16,11 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-
-## 📚 Atualmente Aprendendo
-
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 
 
 ## 📫 Como entrar em contato
